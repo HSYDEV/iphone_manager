@@ -1,0 +1,44 @@
+[
+    {
+        "model": "12pro",
+        "storage": "128G",
+        "battery": "80",
+        "color": "ازرق",
+        "price": "350",
+        "date": "2025-06-12",
+        "sim_status": "مفتوح رسمي",
+        "parts_changed": "No",
+        "sim_type": "شريحه واحدة",
+        "location": "المحل ",
+        "phone_status": "آثار استخدام",
+        "notes": ""
+    },
+    {
+        "model": "11",
+        "storage": "16G",
+        "battery": "77",
+        "color": "Rad",
+        "price": "350",
+        "date": "2025-06-13",
+        "sim_status": "مفتوح رسمي",
+        "parts_changed": "No",
+        "sim_type": "شريحه واحدة",
+        "location": "المحل",
+        "phone_status": "مختم",
+        "notes": ""
+    },
+    {
+        "model": "12",
+        "storage": "128G",
+        "battery": "92%",
+        "color": "ابيض",
+        "price": "220$",
+        "date": "2025-06-25",
+        "sim_status": "مفتوح رسمي",
+        "parts_changed": "لايوجد",
+        "sim_type": "شريحه واحدة",
+        "location": "جاء للمحل",
+        "phone_status": "مستخدم",
+        "notes": "غير متفق على سعره"
+    }
+]
